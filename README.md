@@ -1,4 +1,4 @@
-#Artificial Bell Colony
+#Artificial Bee Colony
 
 There is a [ABC-algorithm](http://en.wikipedia.org/wiki/Artificial_bee_colony_algorithm) implementation in C++.
 
